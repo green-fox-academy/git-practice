@@ -1,4 +1,4 @@
 const cheer = (a,b) => {
-    console.log(a);
-    console.log(b);
+    console.log(a1321);
+    console.log(b1231);
 };
