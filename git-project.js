@@ -1,3 +1,3 @@
-const count = () => {
-	console.log(24)
-}
+const greet = () => {
+  console.log('Hello Alex');
+};
