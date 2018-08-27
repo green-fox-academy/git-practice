@@ -1,6 +1,6 @@
-const cheer = (e) => {
-    console.log('Sapphire');
-    console.log(e);
+const cheer = (month, day) => {
+    console.log(month);
+    console.log(day)
 };
 
-cheer('Javascript');
+cheer('12', '02');
