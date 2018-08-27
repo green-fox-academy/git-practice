@@ -1,3 +1,3 @@
-const greet = () => {
-  console.log('7');
+const greet = (e) => {
+  console.log(`'Counting the countless ${e}`);
 };
