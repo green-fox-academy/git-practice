@@ -1,6 +1,4 @@
-const cheer = (month, day) => {
+const cheer = (month, day1) => {
     console.log(month);
-    console.log(day)
+    console.log(day1)
 };
-
-cheer('12', '02');
