@@ -1,4 +1,4 @@
-const cheer = (a,b) => {
-    console.log(a);
-    console.log(b);
+
+const cheer = (e) => {
+    console.log(`Cheer for the ${e}`);
 };
