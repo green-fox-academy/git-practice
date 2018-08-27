@@ -1,6 +1,5 @@
 const cheer = (e) => {
-    console.log('Sapphire');
-    console.log(e);
+    console.log(`Cheer for the ${e}`);
 };
 
 cheer('Javascript');
