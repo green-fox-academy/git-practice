@@ -1,3 +1,3 @@
 const greet = (param) => {
-  console.log('Greetings!');
+  console.log('Greetings for the ' + param);
 };
