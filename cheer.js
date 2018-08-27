@@ -3,4 +3,4 @@ const cheer = (e) => {
     console.log(e);
 };
 
-cheer('you');
+cheer('Javascript');
