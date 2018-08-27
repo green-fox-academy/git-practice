@@ -1,3 +1,3 @@
-const greet = () => {
-  console.log('Hello Alex');
+const greet = (param) => {
+  console.log(`Hello ${param}`);
 };
