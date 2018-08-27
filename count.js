@@ -1,6 +1,3 @@
-const greet = (month, day) => {
-  console.log(month);
-  console.log(day);
+const greet = (e) => {
+  console.log(`'Counting the countless ${e}`);
 };
-
-greet('12', '02');
