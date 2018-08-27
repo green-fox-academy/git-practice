@@ -1,3 +1,3 @@
 const greet = () => {
-  console.log('Hello Alex');
+  console.log('7');
 };
