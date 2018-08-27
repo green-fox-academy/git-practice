@@ -1,4 +1,4 @@
-const cheer = (a,e) => {
+const cheer = (a,b) => {
     console.log(a);
-    console.log(e);
+    console.log(b);
 };
