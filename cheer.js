@@ -1,1 +1,1 @@
-console.log('Sapphire');
+const cheer = () => {console.log('Sapphire')};
